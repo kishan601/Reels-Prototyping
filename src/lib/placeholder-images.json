@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "reel-1",
+      "description": "A person hiking on a mountain trail.",
+      "imageUrl": "https://images.unsplash.com/photo-1541542684-be0c46417a12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtb3VudGFpbiUyMGhpa2luZ3xlbnwwfHx8fDE3Njk2Mjk3NjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mountain hiking"
+    },
+    {
+      "id": "reel-2",
+      "description": "A close-up of a delicious-looking burger.",
+      "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmb29kJTIwYnVyZ2VyfGVufDB8fHx8MTc2OTY5NzA3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food burger"
+    },
+    {
+      "id": "reel-3",
+      "description": "A modern city skyline at night.",
+      "imageUrl": "https://images.unsplash.com/photo-1506606401543-2e73709cebb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaXR5JTIwbmlnaHR8ZW58MHx8fHwxNzY5NjkzODU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city night"
+    },
+    {
+      "id": "reel-4",
+      "description": "Someone using a laptop in a cafe.",
+      "imageUrl": "https://images.unsplash.com/photo-1722864671434-cedda1132d82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjYWZlJTIwbGFwdG9wfGVufDB8fHx8MTc2OTY4Nzg5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cafe laptop"
+    }
+  ]
+}
